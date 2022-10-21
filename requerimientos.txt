@@ -1,0 +1,25 @@
+						REQUERIMIENTOS
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+* Se requiere el tradicional juego "TATETI", con sus respectivas reglas, que permita a un usuario enfrentarse a un agente inteligente 
+a través de la consola.
+
+* El juego debe concebir las siguientes reglas y condiciones de finalización:
+	- Los jugadores juegan sus fichas (símbolos) en turnos intercalados.
+	- Los jugadores deben jugar solamente en las celdas vacías.
+	- El juego finaliza cuando uno de los jugadores ubica 3 fichas en linea (fila, columna o diagonal).
+	- Si no hay ganadores, ni empacios vacíos, se considera empate.
+	- Al iniciar otra partida, cambian los roles entre los jugadores (quién inicia primero).
+
+* El agente inteligente o softbot tendrá 3 niveles de dificultad: Fácil, Medio y Difícil.
+
+* El usuario podrá ingresar su nombre.
+
+* El usuario podrá elegir el nivel de dificultad del agente que quiera enfrenter a lo largo de las partidas.
+
+* El usuario podrá ingresar las coordenadas del tablero en donde quiera jugar su ficha.
+
+* Al finalizar una partida, el usuario podrá elegir jugar nuevamente una partida frente al agente.
+
+* Se registrarán las victorias (de cada jugador) y empates.
